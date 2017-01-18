@@ -1,0 +1,9 @@
+
+{
+  "indent": 2,
+  "node": true,
+  "undef": true,
+  "unused": true,
+  "lastsemic":true,
+  "expr": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Todo",
+  "description": "Todo Rest Server demo",
+  "version": "1.0.0",
+  "private": true,
+  "author": "",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "file-stream-rotator": "0.0.6",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.30.0",
+    "gbk": "^0.1.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.2.6",
+    "mongoose-timestamp": "^0.4.0",
+    "node-schedule": "^1.0.0",
+    "qs": "^6.1.0",
+    "range_check": "^1.2.0",
+    "request": "^2.72.0",
+    "request-debug": "^0.2.0",
+    "restify": "^4.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6",
+    "mongo-utils": "^0.5.0",
+    "request-debug": "^0.2.0"
+  }
+}
